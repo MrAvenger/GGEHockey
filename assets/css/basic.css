@@ -1,0 +1,20 @@
+.ban-osnova{
+    background-image:url(../img/osnova.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.ban-next{
+    background-image:url(../img/banner2.jpg);
+    background-size: contain;
+    background-position: center;
+}
+
+.img-back-text-title{
+    font-size: 3vw;
+    
+}
+.img-back-text-subtitle{
+    font-size: 3vw;
+    
+}
